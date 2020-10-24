@@ -1,9 +1,9 @@
-package com.mycompany.converter;
+package com.dctek.converter;
 
 import org.springframework.core.convert.converter.Converter;
 import org.springframework.stereotype.Component;
 
-import com.mycompany.dto.CreateOrderDto;
+import com.dctek.dto.CreateOrderDto;
 
 import java.util.Set;
 import java.util.stream.Collectors;

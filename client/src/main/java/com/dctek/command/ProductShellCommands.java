@@ -1,7 +1,7 @@
-package com.mycompany.command;
+package com.dctek.command;
 
+import com.dctek.client.ProductApiClient;
 import com.google.gson.Gson;
-import com.mycompany.client.ProductApiClient;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.shell.standard.ShellComponent;

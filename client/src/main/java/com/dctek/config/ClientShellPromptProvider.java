@@ -1,4 +1,4 @@
-package com.mycompany.config;
+package com.dctek.config;
 
 import org.jline.utils.AttributedString;
 import org.jline.utils.AttributedStyle;

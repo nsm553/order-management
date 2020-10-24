@@ -1,4 +1,4 @@
-package com.mycompany.config;
+package com.dctek.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;

@@ -1,4 +1,4 @@
-package com.mycompany.config;
+package com.dctek.config;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

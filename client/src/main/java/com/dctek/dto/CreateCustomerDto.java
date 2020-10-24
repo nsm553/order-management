@@ -1,4 +1,4 @@
-package com.mycompany.dto;
+package com.dctek.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,9 +1,9 @@
-package com.mycompany.command;
+package com.dctek.command;
 
+import com.dctek.client.OrderApiClient;
+import com.dctek.client.ProductApiClient;
+import com.dctek.dto.CreateOrderDto;
 import com.google.gson.Gson;
-import com.mycompany.client.OrderApiClient;
-import com.mycompany.client.ProductApiClient;
-import com.mycompany.dto.CreateOrderDto;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.shell.standard.ShellComponent;

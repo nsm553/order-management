@@ -1,4 +1,4 @@
-package com.mycompany.client;
+package com.dctek.client;
 
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;

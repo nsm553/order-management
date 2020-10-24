@@ -1,4 +1,4 @@
-package com.mycompany.client;
+package com.dctek.client;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
@@ -6,9 +6,9 @@ import org.springframework.http.MediaType;
 import org.springframework.stereotype.Component;
 import org.springframework.web.reactive.function.client.WebClient;
 
-import com.mycompany.dto.CreateOrderDto;
-import com.mycompany.dto.OrderDetailedDto;
-import com.mycompany.dto.OrderDto;
+import com.dctek.dto.CreateOrderDto;
+import com.dctek.dto.OrderDetailedDto;
+import com.dctek.dto.OrderDto;
 
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
