@@ -10,7 +10,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>com.mycompany</groupId>
+    <groupId>com.dctek</groupId>
     <artifactId>order-management</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
@@ -23,6 +23,9 @@
 
     <modules>
         <module>client</module>
+        <module>customer</module>
+        <module>product</module>
+        <module>order</module>
     </modules>
 
 </project>
